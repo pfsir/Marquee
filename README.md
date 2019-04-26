@@ -3,7 +3,7 @@
 
 效果图
 ---
-暂时没有
+![image](gif/marquee.gif)
 
 ## 使用
 
