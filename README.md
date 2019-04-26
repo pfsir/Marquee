@@ -1,5 +1,5 @@
 # MarqueeViewLibrary
-一个竖滚同时横滚的跑马灯Library（不）
+一个竖滚同时横滚的跑马灯Library
 
 效果图
 ---
