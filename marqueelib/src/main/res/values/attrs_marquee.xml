@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarqueeView">
+        <!--横向文字滚动速度-->
+        <attr name="horizontal_text_speed" format="integer" />
+        <!-- 文字大小 -->
+        <attr name="horizontal_text_size" format="dimension" />
+        <!-- 横向滚动控件的宽 -->
+        <attr name="horizontal_text_width" format="dimension" />
+        <!-- 横向滚动控件的高 -->
+        <attr name="horizontal_text_height" format="dimension" />
+        <!--竖向滚动时间-->
+        <attr name="horizontal_text_switch_time" format="integer" />
+    </declare-styleable>
+
+</resources>
