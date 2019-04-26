@@ -8,8 +8,6 @@
         <attr name="text_size" format="integer" />
         <!--每个字的滚动时间-->
         <attr name="text_scroll_speed_time" format="boolean" />
-        <!--是否仅仅滚动到内容末尾-->
-        <attr name="text_scroll_to_content_end" format="boolean" />
     </declare-styleable>
 
 </resources>
