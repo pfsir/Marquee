@@ -8,8 +8,21 @@
 ## 使用
 
 ### Gradle:
-implementation 'com.github.pfsir:Marquee:V1.0.0'
-
+步骤1:
+```
+allprojects {
+        repositories {
+                ...
+                maven { url 'https://jitpack.io' }
+        }
+}
+```  
+步骤2:
+```
+dependencies {
+        implementation 'com.github.pfsir:Marquee:V1.0.0'
+}
+```
 ### 属性
 MarqueeView属性
 
